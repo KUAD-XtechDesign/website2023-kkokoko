@@ -188,6 +188,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 
 .sec{
   margin-bottom: 40px;
+  font-family:Algerian;
 }
 
 .contents {
@@ -202,8 +203,10 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 .top_eye_catch {
   height: 500px;
   color: #fff;
-  font-weight: bold;
-  background-image: url(../images/top.jpg);/* 背景画像 */
+  font-weight: lighter;
+  font-size: 60px;
+  font-family:Algerian;
+  background-image: url(../images/IMG_1361.png);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
@@ -216,6 +219,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 
 .link_menu{
   padding-top: 10px;
+  font-family:Algerian;
 }
 
 .each_link{
